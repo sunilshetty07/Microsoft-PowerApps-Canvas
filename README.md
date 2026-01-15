@@ -25,10 +25,12 @@ Follow the steps below to install the app.
 2. In the left navigation pane, select **Apps**.
     
 3. At the top, click **Upload** (or **Import Canvas App**, depending on your interface).
+   <img width="919" height="328" alt="image" src="https://github.com/user-attachments/assets/852a3efb-9688-467b-adf8-8c958cceb09a" />
+
     
-4. Choose **Browse** and select the downloaded `.msapp` file.
+5. Choose **Browse** and select the downloaded `.msapp` file.
     
-5. Once the upload is complete, Power Apps will open the app in the editor.
+6. Once the upload is complete, Power Apps will open the app in the editor.
     
 
 ---
